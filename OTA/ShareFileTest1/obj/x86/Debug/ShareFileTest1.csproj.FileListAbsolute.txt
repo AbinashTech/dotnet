@@ -1,0 +1,9 @@
+F:\Suba\WORKING\DOTNET\WORKING\NETWORKSHARE TESTING\21072022\ShareFileTest1\ShareFileTest1\bin\Debug\ShareFileTest1.exe
+F:\Suba\WORKING\DOTNET\WORKING\NETWORKSHARE TESTING\21072022\ShareFileTest1\ShareFileTest1\bin\Debug\ShareFileTest1.pdb
+F:\Suba\WORKING\DOTNET\WORKING\NETWORKSHARE TESTING\21072022\ShareFileTest1\ShareFileTest1\obj\x86\Debug\ShareFileTest1.frmMain.resources
+F:\Suba\WORKING\DOTNET\WORKING\NETWORKSHARE TESTING\21072022\ShareFileTest1\ShareFileTest1\obj\x86\Debug\ShareFileTest1.Properties.Resources.resources
+F:\Suba\WORKING\DOTNET\WORKING\NETWORKSHARE TESTING\21072022\ShareFileTest1\ShareFileTest1\obj\x86\Debug\ShareFileTest1.View.frmWhatsApp.resources
+F:\Suba\WORKING\DOTNET\WORKING\NETWORKSHARE TESTING\21072022\ShareFileTest1\ShareFileTest1\obj\x86\Debug\ShareFileTest1.csproj.GenerateResource.Cache
+F:\Suba\WORKING\DOTNET\WORKING\NETWORKSHARE TESTING\21072022\ShareFileTest1\ShareFileTest1\obj\x86\Debug\ShareFileTest1.exe
+F:\Suba\WORKING\DOTNET\WORKING\NETWORKSHARE TESTING\21072022\ShareFileTest1\ShareFileTest1\obj\x86\Debug\ShareFileTest1.pdb
+F:\Suba\WORKING\DOTNET\WORKING\NETWORKSHARE TESTING\21072022\ShareFileTest1\ShareFileTest1\obj\x86\Debug\ShareFileTest1.csprojResolveAssemblyReference.cache
