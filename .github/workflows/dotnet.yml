@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 env:
   solution: 'OTA/ShareFileTest1.sln'
-  buildPlatform: 'Any CPU'
+  buildPlatform: 'X86'
   buildConfiguration: 'Release'
 
 jobs:
