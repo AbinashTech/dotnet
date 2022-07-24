@@ -15,6 +15,7 @@ namespace ShareFileTest1.View
         bool sideBar_Expand = true;
         bool FlagprogressMove = true;
         int ProgressMove = 2;
+        int date =0;
         public frmWhatsApp()
         {
             InitializeComponent();
